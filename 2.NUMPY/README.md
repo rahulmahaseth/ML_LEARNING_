@@ -1,5 +1,5 @@
 # NUMPY
-Numpy is a library helps in doing all the scientific calculation.<\br>
+Numpy is a library helps in doing all the scientific calculation. <\br>
 The default data-type of numpy is an array. 
 It helps in manuplating the data of matrix and array.
 we can create an array using numpy by using "numpy.array()" and "numpy.arange()" function.
